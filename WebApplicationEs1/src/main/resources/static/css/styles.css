@@ -1,0 +1,21 @@
+h2, h3 {
+    color: #070059;
+    font-family: 'Calibri', sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.nav-link {
+    color: #9b9b9b ;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+table {
+    border: 3px solid black;
+    border-collapse: collapse;
+    border-color: black !important;
+}
+
